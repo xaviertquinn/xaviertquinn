@@ -2,7 +2,7 @@
 - 👀 I love writing stories, listening to music, researching my family history, and finding fun data projects to work on
 - 🌱 I’m currently learning mySQL
 - 💞️ I’m looking to collaborate on data analytics projects
-- 📫 How to reach me: Message me on LinkedIn
+- 📫 How to reach me: Message me on LinkedIn -- adding link in progress
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I love genealogy!
 
